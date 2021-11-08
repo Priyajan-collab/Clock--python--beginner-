@@ -1,3 +1,3 @@
 # Clock--python--beginner-
 
-`pip install -r requirememnts.txt`
+`pip install -r requirements.txt`
