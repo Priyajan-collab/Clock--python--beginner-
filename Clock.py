@@ -24,5 +24,7 @@ Start_button=Button(text="start",command=clock)
 Start_button.pack(pady=10,padx=120)
 
 
+print("end")
+
 
 main_screen.mainloop()
