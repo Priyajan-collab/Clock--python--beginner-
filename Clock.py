@@ -4,6 +4,7 @@ from tkinter import Button
 import time
 
 print("Priyajan")
+print("Joon")
 
 #main screen
 main_screen=Tk()
