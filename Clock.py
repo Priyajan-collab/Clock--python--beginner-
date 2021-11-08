@@ -3,9 +3,6 @@ from tkinter import Label
 from tkinter import Button
 import time
 
-print("Priyajan")
-print("Joon")
-
 #main screen
 main_screen=Tk()
 main_screen.title("Count down ")
@@ -22,9 +19,5 @@ def clock():
 #button
 Start_button=Button(text="start",command=clock)
 Start_button.pack(pady=10,padx=120)
-
-
-print("end")
-
 
 main_screen.mainloop()
