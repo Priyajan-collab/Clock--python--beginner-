@@ -3,6 +3,8 @@ from tkinter import Label
 from tkinter import Button
 import time
 
+print("Priyajan")
+
 #main screen
 main_screen=Tk()
 main_screen.title("Count down ")
